@@ -1,0 +1,11 @@
+{
+  "image":"https://gateway.pinata.cloud/ipfs/QmewXeXsUhntN2Vdaft4fK8ySyX2QRYbg6751QKzxGMsXs/7.jpg",
+  "attributes":[
+    {
+      "trait_type":"ID",
+      "value":"7"
+    }
+  ],
+  "name":"ERC721 Token 7",
+  "description":"This is ERC721 Token 7"
+}
